@@ -1,5 +1,9 @@
 "#Kollex  Task" 
 # Kollex Task
+## Table of contents
+* [Introduction](#intoduction)
+* [Technologies](#technologies)
+* [Launch](#launch)
 ## Introduction
 This Project is for "Kollex Automation Task" and used as a Maven Project. Maven is a powerful project management tool that is based on POM (project object model). It is used for projects build, dependency and documentation. It simplifies the build process.  
 ## Technologies Used
