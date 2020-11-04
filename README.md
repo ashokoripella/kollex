@@ -8,7 +8,7 @@
 * [Project Structure](#projectstructure)
 
 ## Introduction
-This Project is for "Kollex Automation Task" and used as a Maven Project. Maven is a powerful project management tool that is based on POM (project object model). It is used for projects build, dependency and documentation. It simplifies the build process.  
+This Project is for "Kollex Automation Task" and used as a Maven Project. Maven is a powerful project management tool that is based on POM (project object model). It is used for projects build, dependency and documentation. It simplifies the build process. All steps were explained in seperate sections. This project was build and then comitted using Git. 
 ## Technologies Used
 * Testing Framework-: TestNG version 6.8.9
 * OperatingSystem---: Windows 8.1
@@ -29,7 +29,7 @@ Page Object Model: (POM) is a design pattern, popularly used in test automation 
 * Here we are dealing the pages (WikipediaPage, GigaBerlinPage, GoogleMapsPage).
 * For initialization of Page objects or to instantiate the Page object itself Page Factory is used.
 * The concept is separation of Page Object Repository and Test Methods.
-## Code
+## Code Changes
 * The are two test cases written to show how exacly we work (POM) design. Just the driver(chrome or firefox) is different in the class rest of the script is same.
 * @BeforeClass
 *	public void testSetUp() {
