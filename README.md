@@ -6,6 +6,7 @@
 * [Given Scenario](#givenscenario)
 * [Approach](#approach)
 * [Project Structure](#projectstructure)
+*[Coverd BonusPoints](#coveredbonuspoints) 
 
 ## Introduction
 This Project is for "Kollex Automation Task" and used as a Maven Project. Maven is a powerful project management tool that is based on POM (project object model). It is used for projects build, dependency and documentation. It simplifies the build process. All steps were explained in seperate sections. This project was build and then comitted using Git. 
