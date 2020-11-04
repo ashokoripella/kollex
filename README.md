@@ -30,7 +30,7 @@ Page Object Model: (POM) is a design pattern, popularly used in test automation 
 * Here we are dealing the pages (WikipediaPage, GigaBerlinPage, GoogleMapsPage).
 * For initialization of Page objects or to instantiate the Page object itself Page Factory is used.
 * The concept is separation of Page Object Repository and Test Methods.
-## Code Changes For Below Changes
+## Code Modification For Below Changes
 ### For avoidng duplicate lines of code  we can use below steps for changing the browser(eg: Firefox,Chrome). 
 * The are two test cases written to show how exacly we work (POM) design. Just the driver(chrome or firefox) is different in the class rest of the script is same.
 * @BeforeClass
