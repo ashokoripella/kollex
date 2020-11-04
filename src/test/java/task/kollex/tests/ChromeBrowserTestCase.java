@@ -70,6 +70,7 @@ public class ChromeBrowserTestCase extends SeleniumFunctions {
 		takeScreenshotAndSave("EnterLocationInGoogleMaps.png");
 		Thread.sleep(10000);
 		Assert.assertEquals(googleMapUtils.getLoactionDetails(), expectedDataMap.get("LocationDetails"));
+		takeScreenshotAndSave("MapResults.png");
 	}
 	@AfterClass
 	public void tearDown() {
