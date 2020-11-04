@@ -47,7 +47,7 @@ Page Object Model: (POM) is a design pattern, popularly used in test automation 
 * Now update project
 * Test case can be run as "runastestnG"
 
-## Project Structure
+## Project code Structure
 * task.page.elemets(package)---All pageElement Classes are written in this package.
 * task.kollex.tests(package)---All TestCases are written here.
 * task.utils(package)----------All page Utils(Page Methods) and File Utils(Csv File) are written here.
