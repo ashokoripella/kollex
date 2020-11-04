@@ -3,12 +3,12 @@
 <suite parallel="none" name="Failed suite [Default suite]">
   <test parallel="none" name="Default test(failed)">
     <classes>
-      <class name="task.kollex.tests.TestCasePOM">
+      <class name="task.kollex.tests.FirefoxBrowseerTestCase">
         <methods>
           <include name="testSetUp"/>
           <include name="automationTask"/>
         </methods>
-      </class> <!-- task.kollex.tests.TestCasePOM -->
+      </class> <!-- task.kollex.tests.FirefoxBrowseerTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
